@@ -62,7 +62,7 @@ include(ConfigureChecks)
 
 # Add subdirectories
 add_subdirectory (gmtsar)
-add_subdirectory (snaphu/src)
+# add_subdirectory (snaphu/src)
 add_subdirectory (preproc)
 
 # Configuration done
